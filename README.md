@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- visit my page : file:///C:/Users/USUARIO%20A101-E02/Downloads/PEREGRINO0101010101.github.io/index.html
+visit my page: file:///C:/Users/USUARIO%20A101-E02/Downloads/PEREGRINO0101010101.github.io/index.html
+
 - 
 - 
